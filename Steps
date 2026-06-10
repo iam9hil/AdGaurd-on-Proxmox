@@ -1,1 +1,12 @@
 **** Installing AdGaurd on Proxmox ****
+
+1. In the Server Hosting Proxmox
+  a. CT ID: 102
+  b. Hostname: adguard
+  c. Password: uptoyou
+  d. Template: Ubuntu
+  e. Disk: 4GB
+  f. CPU: 1 core
+  g. RAM: 256MB
+  h. IP/CIDR: 192.168.1.x/24
+  i. Gateway: 192.168.1.1
